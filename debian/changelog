@@ -1,0 +1,5 @@
+better-exceptions (0.2.2-1) unstable; urgency=low
+
+  * Initial Debian package release.
+
+ -- Daniel Troeder <daniel@admin-box.com>  Sat, 23 Mar 2019 08:18:48 +0100
